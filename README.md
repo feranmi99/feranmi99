@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Oluwaferanmi
-- 👀 I’m interested in collaboration and wporking ith group 
+- 👋 Hi, I’m Oluwaferanmi
+- 👀 I’m interested in collaboration and working with group 
 - 🌱 I’m currently learning php and angular
 - 💞️ I’m looking to collaborate on full-stack developer 
 - 📫 How to reach me 08149445103
+- 
 
 <!---
 feranmi99/feranmi99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
