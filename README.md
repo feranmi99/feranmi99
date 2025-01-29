@@ -24,14 +24,8 @@
 - [Project 1](#): A brief description of the project.
 - [Project 2](#): Another brief description.
 
-### 🌱 Currently Learning
-- **Solidity & Blockchain Development** (Smart contracts & dApps)
-- **Web3.js & Ethers.js** (Interacting with blockchain networks)
-- **GraphQL** (API development)
-
 ### 🌟 Interests
 - Web3 and decentralized applications
-- Crypto and smart contract development
 - Scalable backend architectures
 - Open-source contributions
 
