@@ -21,8 +21,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Projects
-- [Project 1](#): A brief description of the project.
-- [Project 2](#): Another brief description.
+- [bitemore](https://bitemore.vercel.app/): Bitemore is a web application designed to help users discover and explore local restaurants and eateries. By allowing access to your location, it provides personalized recommendations of nearby dining options. Users can also perform custom searches to explore different cities or specific cuisines. The platform aims to make finding your next meal convenient and tailored to your preferences.
 
 ### 🌟 Interests
 - Web3 and decentralized applications
