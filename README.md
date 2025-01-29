@@ -8,7 +8,6 @@
 
 ### Skills
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -21,12 +20,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Projects
-- [bitemore](https://bitemore.vercel.app/): Bitemore is a web application designed to help users discover and explore local restaurants and eateries. By allowing access to your location, it provides personalized recommendations of nearby dining options. Users can also perform custom searches to explore different cities or specific cuisines. The platform aims to make finding your next meal convenient and tailored to your preferences.
+- [bitemore](https://bitemore.vercel.app/): Bitemore is a restaurant app that allows users to explore menu options, place orders, and enjoy a seamless dining experience. 🍽️🚀.
 
 ### 🌟 Interests
-- Web3 and decentralized applications
 - Scalable backend architectures
 - Open-source contributions
+- Web3 applications
 
 ### 💚 Looking to Collaborate
 I’m open to collaborating on **full-stack development projects** or any interesting **open-source initiatives**. If you have an idea or project, feel free to reach out!
@@ -35,10 +34,7 @@ I’m open to collaborating on **full-stack development projects** or any intere
 - **Phone**: 08149445103
 - **Email**: [olamilekanferanmi99@gmail.com](mailto:olamilekanferanmi99@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnson-feranmi/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@FeranmiOlamile2)
 
 ### Fun Fact
 🎡 I believe in the power of collaboration and continuous learning to achieve great things!
-
----
