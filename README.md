@@ -22,11 +22,6 @@
 ### Projects
 - [bitemore](https://bitemore.vercel.app/): Bitemore is a restaurant app that allows users to explore menu options, place orders, and enjoy a seamless dining experience. 🍽️🚀.
 
-### 🌟 Interests
-- Scalable backend architectures
-- Open-source contributions
-- Web3 applications
-
 ### 💚 Looking to Collaborate
 I’m open to collaborating on **full-stack development projects** or any interesting **open-source initiatives**. If you have an idea or project, feel free to reach out!
 
@@ -35,6 +30,3 @@ I’m open to collaborating on **full-stack development projects** or any intere
 - **Email**: [olamilekanferanmi99@gmail.com](mailto:olamilekanferanmi99@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnson-feranmi/)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@FeranmiOlamile2)
-
-### Fun Fact
-🎡 I believe in the power of collaboration and continuous learning to achieve great things!
