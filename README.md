@@ -1,14 +1,13 @@
-i want to add booststrap , css, sass, suivet, vue, git , postman , phython, and php to my repo and make it more  beutifull and cuurent working on a pyton trading bot using bybit api 
+# Oluwaferanmi Johnson
 
-make so so buetiful # 👋 Hi, I’m Oluwaferanmi!
+**Senior Full-Stack Engineer** · Lagos, Nigeria
 
-### About Me
-- 💻 I’m a passionate developer interested in building scalable and user-friendly web applications.
-- 🌱 I’m currently learning **Laravel** and expanding my skills in full-stack development.
-- 🤝 I love collaborating with others and working in teams to solve problems and create amazing projects.
-- 🚀 My goal is to contribute to open-source projects and grow as a full-stack developer.
+Passionate about building scalable, high-performance web applications and systems. I specialize in full-stack development across modern JavaScript ecosystems, backend frameworks, and cloud-based architectures. Currently engineering a Python-based algorithmic trading bot on the Bybit API.
 
-### Skills
+---
+
+## Tech Stack
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,14 +32,25 @@ make so so buetiful # 👋 Hi, I’m Oluwaferanmi!
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Projects
-- [bitemore](https://bitemore.vercel.app/): Bitemore is a restaurant app that allows users to explore menu options, place orders, and enjoy a seamless dining experience. 🍽️🚀.
+---
 
-### 💚 Looking to Collaborate
-I’m open to collaborating on **full-stack development projects** or any interesting **open-source initiatives**. If you have an idea or project, feel free to reach out!
+## What I'm Building
 
-### 📞 How to Reach Me
-- **Phone**: 08149445103
-- **Email**: [olamilekanferanmi99@gmail.com](mailto:olamilekanferanmi99@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnson-feranmi/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@FeranmiOlamile2)
+> 🤖 **Python Algorithmic Trading Bot** — A fully automated trading system integrated with the [Bybit API](https://bybit-exchange.github.io/docs/), featuring real-time market data analysis, signal generation, and risk management logic. Built with Python, asyncio, and WebSockets.
+
+---
+
+## Open to Collaboration
+
+I'm available for collaboration on:
+- Full-stack web applications (SaaS, fintech, dashboards)
+- Open-source projects and developer tooling
+- API design, backend architecture, and system optimization
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnson-feranmi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@FeranmiOlamile2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olamilekanferanmi99@gmail.com)
