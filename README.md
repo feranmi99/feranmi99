@@ -81,13 +81,14 @@ When I'm not architecting SaaS platforms or fintech solutions, you'll find me op
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feranmi99&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/feranmi99)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feranmi99&theme=radical)](https://github.com/feranmi99)
 
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=feranmi99&theme=radical&hide_border=true)](https://github.com/feranmi99)
 
 </div>
+
 
 <br/>
 
